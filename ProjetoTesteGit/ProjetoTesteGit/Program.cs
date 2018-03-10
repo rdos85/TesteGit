@@ -7,8 +7,7 @@ namespace ProjetoTesteGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            // dev1
-            // master
+            // dev1 vindo direto do servidor
         }
     }
 }
