@@ -9,6 +9,7 @@ namespace ProjetoTesteGit
             Console.WriteLine("Hello World!");
             // dev1 vindo direto do servidor
             // dev1 após merge
+            // novidade no dev1 comitado local
         }
     }
 }
